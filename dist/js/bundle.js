@@ -1,2 +1,2 @@
-"use strict";alert("Script1 says hello!"),alert("Hello from script2");
+"use strict";
 //# sourceMappingURL=bundle.js.map
