@@ -1,28 +1,12 @@
-# Gulp starter boilerplate
+# Landing page
 
 #Includes :
-	- SASS
-	- Autoprefixer
-	- Minifier
-	- Babel
-	- Uncss
-	- Image compressor
-	- Browsersync
+	- Background video
+	- Popup register modal
 
 #Version
 
 1.0.0
 
-# Install Dependencies
-
-npm install
-
-# Compile Sass & Run Server
-
-npm start
-
-
-
-Files are compiled to /dist
 
 #Happy coding!!!
