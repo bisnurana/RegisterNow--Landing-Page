@@ -1,12 +1,9 @@
 # Landing page
 
 #Includes :
-	- Background video
-	- Popup register modal
+	- Responsive Background video
+	- Popup register modal on button click
 
 #Version
 
 1.0.0
-
-
-#Happy coding!!!
